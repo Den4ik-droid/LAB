@@ -1,0 +1,56 @@
+total 4572
+ 994236 drwxr-x--- 24 den4ik-droid den4ik-droid    4096 Nov 21 15:49 .
+ 917505 drwxr-xr-x  3 root            root               4096 Oct  3 15:28 ..
+ 994286 lrwxrwxrwx  1 den4ik-droid den4ik-droid      34 Nov 21 15:15 2018 -> /home/doroshkevich/structure/2018/
+ 994267 -rw-------  1 den4ik-droid den4ik-droid    2337 Oct 10 16:07 .bash_history
+ 994249 -rw-r--r--  1 den4ik-droid den4ik-droid     220 Oct  3 15:28 .bash_logout
+ 994255 -rw-r--r--  1 den4ik-droid den4ik-droid    3771 Oct  3 15:28 .bashrc
+1332717 drwxrwxr-x 14 den4ik-droid den4ik-droid    4096 Nov 21 16:02 .cache
+ 994250 drwxr-xr-x 16 den4ik-droid den4ik-droid    4096 Nov 21 15:57 .config
+ 994278 -rw-rw-r--  1 den4ik-droid den4ik-droid      59 Oct 16 17:00 .curlrc
+1332718 drwxr-xr-x  2 den4ik-droid den4ik-droid    4096 Oct  3 15:32 Desktop
+ 994265 -rw-r--r--  1 den4ik-droid den4ik-droid      23 Oct 19 08:19 .dmrc
+1332722 drwxr-xr-x  3 den4ik-droid den4ik-droid    4096 Nov  6 18:56 Documents
+1332719 drwxr-xr-x  4 den4ik-droid den4ik-droid    4096 Nov 21 15:57 Downloads
+ 994886 -rwxrwxr--  1 den4ik-droid den4ik-droid      77 Oct 19 08:16 .fehbg
+ 994283 drwxrwxr-x  2 den4ik-droid den4ik-droid    4096 Oct 10 16:00 .fonts
+ 994288 -rw-rw-r--  1 den4ik-droid den4ik-droid     265 Oct 16 16:44 .gitconfig
+1332729 drwx------  3 den4ik-droid den4ik-droid    4096 Oct  3 15:32 .gnupg
+ 994258 -rw-r--r--  1 den4ik-droid den4ik-droid      22 Oct  3 15:28 .gtkrc-2.0
+ 994256 -rw-r--r--  1 den4ik-droid den4ik-droid     516 Oct  3 15:28 .gtkrc-xfce
+ 994264 -rw-------  1 den4ik-droid den4ik-droid       0 Oct  3 15:32 .ICEauthority
+ 994889 -rw-rw-r--  1 den4ik-droid den4ik-droid 4362240 Nov 21 15:33 image.tar
+ 994892 drwxrwxr-x  6 den4ik-droid den4ik-droid    4096 Nov 21 15:45 LAB
+ 994285 -rw-------  1 den4ik-droid den4ik-droid      20 Oct 16 16:43 .lesshst
+ 994888 -rw-rw-r--  1 den4ik-droid den4ik-droid      34 Oct 19 09:53 link.txt
+1332695 drwxrwxr-x  4 den4ik-droid den4ik-droid    4096 Oct  3 15:46 .linuxmint
+ 994237 drwxr-xr-x  4 den4ik-droid den4ik-droid    4096 Oct  3 15:32 .local
+1333250 drwx------  4 den4ik-droid den4ik-droid    4096 Oct  3 15:46 .mozilla
+1332723 drwxr-xr-x  2 den4ik-droid den4ik-droid    4096 Oct  3 15:32 Music
+1493908 drwxrwxr-x  3 den4ik-droid den4ik-droid    4096 Nov 21 15:54 otchet
+ 994512 -rw-rw-r--  1 den4ik-droid den4ik-droid   91202 Oct 16 16:50 .p10k.zsh
+1332724 drwxr-xr-x  2 den4ik-droid den4ik-droid    4096 Nov 21 16:02 Pictures
+ 994284 drwxrwxr-x  6 den4ik-droid den4ik-droid    4096 Oct 16 16:46 powerlevel10k
+ 994257 -rw-r--r--  1 den4ik-droid den4ik-droid     807 Oct  3 15:28 .profile
+1332721 drwxr-xr-x  2 den4ik-droid den4ik-droid    4096 Oct  3 15:32 Public
+1491787 drwxrwxr-x 10 den4ik-droid den4ik-droid    4096 Nov 21 15:27 structure
+ 994266 -rw-r--r--  1 den4ik-droid den4ik-droid       0 Oct  3 15:44 .sudo_as_admin_successful
+1332720 drwxr-xr-x  2 den4ik-droid den4ik-droid    4096 Oct  3 15:32 Templates
+ 994269 -rw-r-----  1 den4ik-droid den4ik-droid       5 Nov 21 15:03 .vboxclient-clipboard-tty7-control.pid
+ 994270 -rw-r-----  1 den4ik-droid den4ik-droid       5 Nov 21 15:03 .vboxclient-clipboard-tty7-service.pid
+ 994274 -rw-r-----  1 den4ik-droid den4ik-droid       5 Nov 21 15:03 .vboxclient-draganddrop-tty7-control.pid
+ 994275 -rw-r-----  1 den4ik-droid den4ik-droid       5 Nov 21 15:03 .vboxclient-draganddrop-tty7-service.pid
+ 994271 -rw-r-----  1 doroshkevich_ea doroshkevich_ea       5 Nov 21 15:03 .vboxclient-hostversion-tty7-control.pid
+ 994272 -rw-r-----  1 den4ik-droid den4ik-droid       5 Nov 21 15:03 .vboxclient-seamless-tty7-control.pid
+ 994273 -rw-r-----  1 den4ik-droid den4ik-droid       5 Nov 21 15:03 .vboxclient-seamless-tty7-service.pid
+ 994276 -rw-r-----  1 den4ik-droid den4ik-droid       5 Nov 21 15:03 .vboxclient-vmsvga-session-tty7-control.pid
+ 994277 -rw-r-----  1 den4ik-droid den4ik-droid       5 Nov 21 15:03 .vboxclient-vmsvga-session-tty7-service.pid
+1332725 drwxr-xr-x  2 den4ik-droid den4ik-droid    4096 Oct  3 15:32 Videos
+ 994268 drwxrwxr-x  4 den4ik-droid den4ik-droid    4096 Oct 10 15:23 .vscode
+ 994260 -rw-------  1 den4ik-droid den4ik-droid      60 Nov 21 15:03 .Xauthority
+ 994259 -rw-------  1 den4ik-droid den4ik-droid   16592 Nov 21 16:00 .xsession-errors
+ 994261 -rw-------  1 den4ik-droid den4ik-droid    8526 Nov  6 18:57 .xsession-errors.old
+1492670 drwxrwxr-x  3 den4ik-droid den4ik-droid    4096 Oct 16 17:02 .zsh
+ 994513 -rw-rw-r--  1 den4ik-droid den4ik-droid    1000 Oct 16 17:03 .zshrc
+ 994287 -rw-rw-r--  1 den4ik-droid den4ik-droid       0 Oct 10 16:10 .zshrc~
+ 994514 drwxrwxr-x  8 den4ik-droid den4ik-droid    4096 Oct 16 17:00 zsh-syntax-highlighting

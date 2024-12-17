@@ -1,0 +1,10 @@
+/home/den4ik-droid/Desktop
+/home/den4ik-droid/.config/goa-1.0
+/home/den4ik-droid/.vscode/cli
+/home/den4ik-droid/.gnupg/private-keys-v1.d
+/home/den4ik-droid/Templates
+/home/den4ik-droid/.cache/obexd
+/home/den4ik-droid/Videos
+/home/den4ik-droid/.mozilla/extensions
+/home/den4ik-droid/Public
+/home/den4ik-droid/Music
